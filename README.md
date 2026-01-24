@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Master student in Computer Engineering
+- Currently working on piano accompaniment generation project
+- Currently learning Game Dev & Songwriting
+- Fun fact: Name `pnfwr` came from "Pick a name friends will remember"
+- To reach me: yonghelyu03@gmail.com

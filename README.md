@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Master student in Computer Engineering
+- Game Dev & Software Dev
 - Currently working on piano accompaniment generation project
-- Currently learning Game Dev & Songwriting
+- Interests: Song Transcribing & Video Games
 - Fun fact: Name `pnfwr` came from "Pick a name friends will remember"
 - To reach me: yonghelyu03@gmail.com
